@@ -9,14 +9,11 @@
    - Kill, suspend, and resume processes
 
 #4 Usage
-   Run `./monitor.sh` and follow the menu.
-
+   - Read Commands file
+     
 #5 Notes
    - Requires Bash and core-utils.
    - Some actions might need `sudo` depending on the process permissions.
- 
-#6 Team Roles
-   - (Include same table mentioned earlier)
 
-#7 Limitations
+#6 Limitations
    - Network I/O & disk I/O are not fully implemented.
